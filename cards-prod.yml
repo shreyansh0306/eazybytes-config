@@ -4,8 +4,9 @@ build:
 cards:
   message: "Welcome to the Cards Service-Prod"
   contactDetails:
-    name: "Prod Lead"
+    name: "Production Lead"
     email: "qa@xyz.com"
   callSupport:
     - "+91-1234567890"
+
     - "+1-9876543210"
