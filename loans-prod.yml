@@ -4,9 +4,10 @@ build:
 loans:
   message: "Welcome to the Loans Service"
   contactDetails:
-    name: "Production Lead"
+    name: "Prod Lead"
     email: "prod@xyz.com"
   callSupport:
     - "+91-1234567890"
     - "+1-9876543210"
+
 
