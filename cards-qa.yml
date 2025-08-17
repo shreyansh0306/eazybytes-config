@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0.0"
+
+cards:
+  message: "Welcome to the Cards Service-QA"
+  contactDetails:
+    name: "QA Lead"
+    email: "qa@xyz.com"
+  callSupport:
+    - "+91-1234567890"
+    - "+1-9876543210"
